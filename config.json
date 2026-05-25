@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsender",
+        "uuid": 286337,
+        "checksum": "jb9k7h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
